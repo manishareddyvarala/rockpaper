@@ -1,0 +1,161 @@
+.rock-paper-container {
+  background-color: #223a5f;
+  height: 150vh;
+  padding-top: 1px;
+}
+.rules-btn {
+  color: #223a5f;
+  background-color: #ffffff;
+  padding: 5px;
+  font-family: Roboto;
+  border-radius: 5px;
+  font-weight: 300;
+  cursor: pointer;
+  outline: none;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+.rules-img {
+  height: 350px;
+}
+.rock-paper-score-container {
+  border: 1px solid #ffffff;
+  margin: 50px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.rock-sub-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding-left: 20px;
+}
+.rock-para {
+  font-family: 'Bree Serif';
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 18px;
+}
+.scores-count-cont {
+  background-color: #ffffff;
+  border-radius: 5px;
+  font-family: 'Roboto';
+
+  width: 80px;
+  height: 120px;
+  margin-right: 20px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.score-display {
+  color: #223a5f;
+  /* color: #ffffff;*/
+  font-family: 'Bree Serif';
+  font-size: 18px;
+  font-weight: 600;
+}
+.score-count-display {
+  color: #223a5f;
+  font-family: 'Bree Serif';
+  font-weight: 600;
+
+  font-size: 25px;
+}
+.own_name {
+  font-size: 18px;
+  color: #ffffff;
+  font-family: roboto;
+}
+.game-img-list {
+  background-color: #223a5f;
+  margin: 30px;
+  border-radius: 10px;
+  width: 40%;
+  /* background-color: transparent; */
+  border: none;
+}
+.game-img-icon {
+  height: 100px;
+  margin-left: 20px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  margin-right: 30px;
+}
+.game-btn {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+.game-btn1 {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+.game-cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.result-view-container {
+  display: flex;
+  justify-content: center;
+
+  border: none;
+  display: flex;
+  justify-content: space-around;
+}
+.result-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 100px;
+  margin-left: 100px;
+  background-color: transparent;
+}
+.result-card-con {
+  padding-top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.your-own-text {
+  color: #ffffff;
+  font-size: 25px;
+  font-weight: 500;
+  font-family: 'roboto';
+}
+.display-text {
+  font-family: 'roboto';
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+  font-size: 18px;
+  font-weight: 500;
+  background-color: #ffffff;
+  color: #223a5f;
+  border: none;
+  border-radius: 5px;
+}
+.rules-btn-cont {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.pop-up-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
